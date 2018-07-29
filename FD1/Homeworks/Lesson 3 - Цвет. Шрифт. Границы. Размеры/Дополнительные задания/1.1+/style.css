@@ -1,0 +1,11 @@
+div#firstParagraph
+{
+	text-align: justify-all;
+	font-family: Lora, sans-serif;
+}
+
+div#secondParagraph
+{
+	text-align: justify-all;
+	font-family: Montserrat, sans-serif;
+}
