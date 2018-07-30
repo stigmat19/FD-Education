@@ -1,0 +1,40 @@
+h1
+{
+  border: red dashed 2px;
+  padding: 1px;
+  
+}
+
+.paragraph
+{
+  border: green solid 1px;
+  padding: 20px 10px;
+  width: 600px;
+  margin-bottom: 20px;
+  background-attachment: fixed;
+  background-image: url(http://st8.gismeteo.ru/static/news/img/src/18763/6681af2b.jpg);
+  background-position: 10% 80%;
+  text-align: right;
+}
+
+.albums
+{
+  border-top: 1px solid gray;
+  border-right: 1px solid red;
+  border-bottom: 1px solid green;
+  border-left: 1px solid black;
+  height: 128px;
+
+  background-image: url(https://image.freepik.com/free-icon/no-translate-detected_318-137403.jpg);
+  background-repeat: repeat;
+}
+
+.footer
+{
+  border: 1px solid green;
+}
+
+.space
+{
+  white-space: nowrap;
+}
