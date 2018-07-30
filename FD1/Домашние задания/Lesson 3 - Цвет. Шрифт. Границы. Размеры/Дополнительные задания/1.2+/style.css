@@ -1,0 +1,17 @@
+dt
+{
+	font-weight: bold;
+	margin-top: 1em;
+}
+
+dd
+{
+	font-style: italic;
+}
+
+.wbr
+{
+	font-size: 32px;
+	white-space: nowrap;
+}
+
