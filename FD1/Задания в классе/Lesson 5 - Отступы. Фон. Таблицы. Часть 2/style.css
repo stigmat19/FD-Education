@@ -1,0 +1,36 @@
+.peakTwo
+{
+	background-image: url(cards2.png);
+	background-repeat: no-repeat;
+	width: 144px;
+	height: 194px;
+}
+
+.heartNine
+{
+	background-image: url(cards2.png);
+	background-repeat: no-repeat;
+	width: 144px;
+	height: 194px;
+	background-position: -432px -1358px;
+}
+
+.crossKing
+{
+	background-image: url(cards2.png);
+	background-repeat: no-repeat;
+	width: 144px;
+	height: 194px;
+	background-position: 33% 85%;
+}
+
+th
+{
+	padding: 10px;
+}
+
+td:hover
+{
+	background-color: rgba(255, 0, 0, 0.5);
+	border: solid black 2px;
+}
