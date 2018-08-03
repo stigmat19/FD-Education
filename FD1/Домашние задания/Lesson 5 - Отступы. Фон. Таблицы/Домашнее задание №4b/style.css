@@ -1,0 +1,24 @@
+.fullName
+{
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px; 
+}
+
+.birthday
+{
+	color: green;
+}
+
+.champion
+{
+	font-weight: bold;
+	color: red;
+}
+
+.textInfo
+{
+	color: blue;
+	font-style: italic;
+}
