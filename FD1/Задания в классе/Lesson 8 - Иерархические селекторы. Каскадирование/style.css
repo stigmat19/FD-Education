@@ -1,0 +1,85 @@
+h1
+{
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px; 
+}
+
+h2
+{
+	color: green;
+}
+
+h3
+{
+	font-weight: bold;
+	color: red;
+}
+
+p
+{
+	color: blue;
+	font-style: italic;
+}
+
+a[href^="https://"]
+{
+	font-weight: bold;
+	font-size: 24px;
+}
+
+a[href$=".shtml"]
+{
+	color: green;
+}
+
+[align]
+{
+	font-size: 64px;
+}
+
+h2 + h3
+{
+	color: brown;
+}
+
+p:first-child
+{
+	color: purple;
+}
+
+p:last-of-type
+{
+	color: red;
+}
+
+li:nth-child(odd)
+{
+	background-color: black;
+}
+
+li:nth-child(even)
+{
+	background-color: pink;
+}
+
+li:nth-child(2n+3)
+{
+	background-color: yellow
+}
+
+li:hover
+{
+	background-color: red;
+}
+
+a:active
+{
+	background-color: black;
+}
+
+a:focus
+{
+	font-style: italic;
+}
