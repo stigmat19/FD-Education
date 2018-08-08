@@ -1,0 +1,20 @@
+.header, .footer
+{
+	font-size: 24px;
+	color: #0000ff;
+	text-align: center;
+	background-color: #add8e6;
+	margin: 0px;
+	padding: 10px;
+}
+
+.listName
+{
+	font-weight: bold;
+	padding-left: 15px; 
+}
+
+.menu
+{
+	background-color: #f0e68c;
+}
